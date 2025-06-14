@@ -24,7 +24,7 @@ int main() {
 	{
 		string menu_option;
 		cout << "_____________DO_I_KNOW_YOU?____________" << endl;
-		cout << "_____All_names_must_be_capitolized_____" << endl;
+		cout << "_____All_names_must_be_capitalized_____" << endl;
 		cout << "Enter 1 to load contacts" << endl;
 		cout << "Enter 2 to search by given name" << endl;
 		cout << "Enter 3 to search by surname" << endl;
